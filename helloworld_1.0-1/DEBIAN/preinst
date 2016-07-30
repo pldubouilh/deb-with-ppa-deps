@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Pre installation !"
+
+exit 0
